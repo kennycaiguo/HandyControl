@@ -1,0 +1,3 @@
+files:
+  - source: /src/Shared/HandyControl_Shared/Properties/Langs/Lang.en.resx
+    translation: /src/Shared/HandyControl_Shared/Properties/Langs/%locale%
